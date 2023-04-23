@@ -6,6 +6,6 @@ Also, view a per month profit table for each product, and line charts for Gross 
 ![](images/FinanceReport.png)
 
 ### Sales Performance Dashbboard
-Dashbaord designed for the user to filter between dates, the area of sales, and the category of product and examine sales data <br>
-More specifially the profiability, weekly sales, average of sales by year, and pertanage of each product is displayed. 
+Dashbaord designed for the user to filter between dates, the area of sales, and the category of product and view resulting sales data <br>
+Profitability, weekly sales, average of sales by year, percentage of each sold product, and the sum of sales is displayed
 ![](images/SalesDashboard1.png)
